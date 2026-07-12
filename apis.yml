@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://oceanfacts.herokuapp.com/
 common:
+  - type: DomainSecurity
+    url: security/ocean-facts-domain-security.yml
   - type: Website
     url: https://oceanfacts.herokuapp.com/
   - type: PublicAPIsListing
