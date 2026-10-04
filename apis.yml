@@ -33,13 +33,13 @@ x-category: "Science & Math"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Science And Math
   - Public APIs
+  - Science
+  - Oceanography
 apis:
   - name: Ocean Facts
     description: "Facts pertaining to the physical science of Oceanography"
     humanURL: https://oceanfacts.herokuapp.com/
-    baseURL: https://oceanfacts.herokuapp.com/
     tags:
       - Science And Math
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Science And Math
